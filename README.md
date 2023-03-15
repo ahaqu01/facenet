@@ -46,7 +46,7 @@
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/facenet.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/facenet.git
 
 便会在项目目录下下载到facenet相关代码
 
